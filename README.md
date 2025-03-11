@@ -1,7 +1,7 @@
 # 🚀 Karthik Vemu - Portfolio  
 
 ## 🌐 Live Website  
-Check out my portfolio: [https://karthik-vemu.github.io/My_Portfolio/](https://karthik-vemu.github.io/portfolio-website/)  
+Check out my portfolio: [https://karthik-vemu.github.io/My_Portfolio/](https://karthik-vemu.github.io/My_Portfolio/)  
 
 ## 📌 About  
 This is my personal **portfolio website** showcasing my **skills, projects, and contact information**. It highlights my expertise in **software development, AI/ML, web development, and data analytics**.  
